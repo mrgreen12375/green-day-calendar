@@ -66,6 +66,6 @@ body {
   }
   
   .saveBtn i:hover {
-    font-size: 20px;
+    font-size: 40px;
     transition: all 0.3s ease-in-out;
   }
