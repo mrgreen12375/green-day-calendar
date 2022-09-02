@@ -64,7 +64,7 @@ body {
     background-color: #06aed5;
     color: white;
   }
-  
+  /*changed font size to 40px*/
   .saveBtn i:hover {
     font-size: 40px;
     transition: all 0.3s ease-in-out;
