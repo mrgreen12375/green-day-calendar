@@ -6,10 +6,10 @@ This prodject was to create a daily planner that you can schedule your day. With
 
 ## Mock-up
 
-![alt green day calendar website](/scheduler-mock-up.png)
+![alt green day calendar website](./assets/images/scheduler-mock-up.png)
 
 ## Deployment Links
 
-- https://mrgreen12375.github.io/green-day-calendar/
+Deploy - https://mrgreen12375.github.io/green-day-calendar/
 
-- https://github.com/mrgreen12375/green-day-calendar
+GitHub Repo -  https://github.com/mrgreen12375/green-day-calendar
